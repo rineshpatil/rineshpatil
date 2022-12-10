@@ -27,7 +27,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://api.satou-chan.xyz/interactions/bite/6.gif" width="500px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rineshpatil&icon=3&color=5)](https://visitcount.itsvg.in)
