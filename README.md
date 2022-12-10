@@ -27,7 +27,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-<img src="https://api.giphy.com/v1/gifs/" width="500px"/>
+<img src=baseURL: "https://api.giphy.com/v1/gifs/",
+		apiKey: "0UTRbFtkMxAplrohufYco5IY74U8hOes", width="500px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rineshpatil&icon=3&color=5)](https://visitcount.itsvg.in)
