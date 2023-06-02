@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working on Cloud Platform<br>🧩 I'm Solving the aspect of developer's life<br>⚓ I'm a Cloud Enthusiast<br>🌱 I'm currently working as a Cloud Lead, Android Developer, DBA, Creative Specialist, Community Mangaer<br>💬 Ask me about :- 1. Date on Cloud <br>                                    2. R1N with Android & ...........more <br> ⚡ How about this : 'Mingle with code and switch to developer's mode !'   
+🔭 On Cloud Platforms<br>🧩 Solving the aspect of developer's life<br>⚓ A Cloud Enthusiast<br>🌱 Currently working as a Creative Specialist, Community Mangaer, Cloud Lead, Android Developer, DBA <br>💬 Ask me about :- 1. Date on Cloud <br>                                    2. R1N with Android & ...........more <br> ⚡ How about this : 'Mingle with code and switch to developer's mode !'   
 
 
 ## 🌐 Socials:
