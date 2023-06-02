@@ -26,12 +26,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rineshpatil&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src=baseURL: "https://api.giphy.com/v1/gifs/",
-		apiKey: "0UTRbFtkMxAplrohufYco5IY74U8hOes", width="500px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rineshpatil&icon=3&color=5)](https://visitcount.itsvg.in)
