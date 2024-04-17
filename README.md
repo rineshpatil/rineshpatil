@@ -1,6 +1,6 @@
 Am I
 
-![1](assets/Rinesh Patil.gif)
+![1]<img src="/assets/Rinesh Patil.gif")
 
 <div align="centre">
 
