@@ -1,6 +1,7 @@
-## Who Am I?
+
 
 <h1 align="center"> <br>
+   Being an human I declare myself as - 
   <img src="/assets/Rinesh Patil.gif">
 </h1>
 <div align="centre">
