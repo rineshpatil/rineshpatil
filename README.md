@@ -1,7 +1,8 @@
-Am I
+##Who Am I?
 
-![1]<img src="/assets/Rinesh Patil.gif")
-
+<h1 align="center"> <br>
+  <img src="/assets/Rinesh Patil.gif">
+</h1>
 <div align="centre">
 
 ## 🌐 Socials:
