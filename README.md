@@ -12,6 +12,11 @@
 # ☑️Recent Tech's I've been iNtO :
 <br />
 
+<h2>
+  <img src = "/GIFs/Skills.gif" height="30px" width="30px">
+  Skill set
+</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,javascript,ts,react,next,vercel,linux,vscode,html,css,styledcomponents,java,dart,flutter,materialui,sass,tailwind,bootstrap,python,c,git,github,bash,ae,androidstudio,alpinejs,webpack,discord,spring,figma,firebase,flask,gatsby,githubactions,redux,mongodb,mysql,netlify,nodejs,ps,postgres,powershell,idea,ai,latex,remix,wordpress,&perline=8" />
