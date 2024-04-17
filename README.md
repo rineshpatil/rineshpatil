@@ -1,7 +1,10 @@
 <h1 align="center"> 
 <br>
    As a human I declare myself as -
-<br> 
+   <br>
+
+   </br>
+</h1>
   <img src="/assets/Rinesh Patil.gif">
 </h1>
 <div align="centre">
