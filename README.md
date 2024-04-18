@@ -21,7 +21,7 @@
 <img align="center" class="Welcome SVG" src="https://readme-typing-svg.herokuapp.com?color=%23DC5CC4&size=40&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+my+GitHub+Portfolio!" />
 
 
-# ☑️Recent Tech's I've been iNtO :
+<!-- ## ☑️Recent Tech's I've been iNtO :
 <br />
 
 <h2>
@@ -33,7 +33,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,javascript,ts,react,next,vercel,linux,vscode,html,css,styledcomponents,java,dart,flutter,materialui,sass,tailwind,bootstrap,python,c,git,github,bash,ae,androidstudio,alpinejs,webpack,discord,spring,figma,firebase,flask,gatsby,githubactions,redux,mongodb,mysql,netlify,nodejs,ps,postgres,powershell,idea,ai,latex,remix,wordpress,&perline=8" />
   </a>
-</p>
+</p> -->
 
 
 # 💻 Tech Stack:
