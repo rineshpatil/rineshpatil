@@ -1,6 +1,6 @@
 <h1 align="center"> 
 <br>
-   <img align="center" class="Welcome SVG" src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&size=40&center=true&vCenter=true&width=1200&height=100&lines=As+a+human+I+Declare+Myself+as+-" />
+   <img align="center" class="intro" src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&size=40&center=true&vCenter=true&width=1200&height=100&lines=As+a+human+I+Declare+Myself+as+-" />
    
    <br>
 
