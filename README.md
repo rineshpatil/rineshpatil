@@ -54,7 +54,7 @@
 
 ## [Rinesh Patil](http://rinesh.cf/)
 ![Checklist](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-![VisitorCount](https://profile-counter.glitch.me/VedantKhairnar/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/rineshpatil/count.svg)
 <!--
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
