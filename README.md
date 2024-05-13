@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rineshpatil)
-[![Linkedin Badge](https://img.shields.io/badge/-Riensh%20Patil-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rineshpatil/)](https://www.linkedin.com/in/rineshpatil/) [![Twitter Badge](http://img.shields.io/badge/-@rinesh_patil-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/rinesh_patil)](https://twitter.com/rinesh_patil) [![GitHub followers](https://img.shields.io/github/followers/RineshPatil?label=Follow&style=social)](https://github.com/rineshpatil/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/-Rinesh%20Patil-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rineshpatil/)](https://www.linkedin.com/in/rineshpatil/) [![Twitter Badge](http://img.shields.io/badge/-@rinesh_patil-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/rinesh_patil)](https://twitter.com/rinesh_patil) [![GitHub followers](https://img.shields.io/github/followers/RineshPatil?label=Follow&style=social)](https://github.com/rineshpatil/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-RineshPatil-purple?style=social&logo=Instagram&link=https://www.instagram.com/rineshpatil_/)](https://instagram.com/rineshpatil_) 
 <!-- [![Rinesh Patil](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://vedantkhairnar.cf/) -->
 
