@@ -5,9 +5,9 @@
    <br>
 
    </br>
-</h1>
-  <img src="/assets/Rinesh Patil.gif">
-</h1>
+<!-- </h1> -->
+<!--   <img src="/assets/Rinesh Patil.gif"> -->
+<!-- </h1> -->
 <div align="centre">
 
 ## 🌐 Socials:
