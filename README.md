@@ -5,9 +5,10 @@
    <br>
 
    </br>
-<!-- </h1> -->
+</h1>
 <!--   <img src="/assets/Rinesh Patil.gif"> -->
-<!-- </h1> -->
+   Humanshu Dilipkumar Gajbhiye
+</h1>
 <div align="centre">
 
 ## 🌐 Socials:
@@ -51,7 +52,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rineshpatil&icon=3&color=5)](https://visitcount.itsvg.in)
-
-## [Rinesh Patil](http://rinesh.cf/)
 
 
