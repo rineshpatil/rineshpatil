@@ -6,8 +6,7 @@
 
    </br>
 </h1>
-<!--   <img src="/assets/Rinesh Patil.gif"> -->
-   Humanshu Dilipkumar Gajbhiye
+  <img src="/assets/Rinesh Patil.gif">
 </h1>
 <div align="centre">
 
